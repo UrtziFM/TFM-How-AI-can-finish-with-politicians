@@ -17,3 +17,6 @@ Primeros pasos:
 
 -1) Generar un tablon uniforme con las diferentes variables y por municipios.
 · Mi idea es un utilizar pandas para generar este Dataframe, analizarlo y visualizarlo.
+-2) Una vez generado los tres Dataframes principales y accesibles en la carpeta Data, utilizaremos tecnicas de aprendizaje automatico supervisado para comprobar si las variables que hemos definido pueden ayudarnos a predecir una necesidad que hasta ahora solo se podia calcular a traves de encuestas (variables explicitas) y que vamos comprobar si con variables implicitas tenemos margen de error.
+-3) Utilizaremos diferentes metodos de Clasificacion de ML primero, para clasificar si un municipio es participativo o no (mediana), y luego utilzaremos de Regresion de ML para predecir el resultado de participacion electoral en cada municipio.
+
